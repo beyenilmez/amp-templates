@@ -22,6 +22,7 @@ Console.UserChatRegex=
 Console.UserJoinRegex=
 Console.UserLeaveRegex=
 Meta.Author=Bedirhan Yenilmez
+Meta.AppConfigId=b731bf33-703b-42ba-a599-249fab8c2bf8
 Meta.ConfigManifest=picolimboconfig.json
 Meta.ConfigRoot=picolimbo.kvp
 Meta.Description=A lightweight Minecraft server written from scratch in Rust.
