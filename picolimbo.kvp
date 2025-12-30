@@ -31,3 +31,4 @@ Meta.DisplayName=PicoLimbo
 Meta.EndpointURIFormat=
 Meta.OS=3
 Meta.URL=https://github.com/Quozul/PicoLimbo
+Meta.MinAMPVersion=2.5.0.4
