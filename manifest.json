@@ -1,9 +1,8 @@
 {
-	"id": "b731bf33-703b-42ba-a599-249fab8c2bf8",
-	"authors": ["Bedirhan Yenilmez"],
-	"origin": "https://github.com/beyenilmez/amp-templates.git",
-	"url": "https://github.com/beyenilmez/amp-templates",
-	"imagefile": "",
-	"prefix": "AA ",
-	"repotype": "AppTemplates"
+    "id": "dc78f72f-20ce-421c-a021-99412c4dbe6e",
+    "authors": ["beyenilmez"],
+    "origin": "https://github.com/beyenilmez/amp-templates.git",
+    "url": "https://github.com/beyenilmez/amp-templates",
+    "imagefile": "",
+    "prefix": "beyenilmez - "
 }
