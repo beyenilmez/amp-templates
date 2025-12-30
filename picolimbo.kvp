@@ -28,3 +28,4 @@ App.ExecutableLinux=pico_limbo
 Console.AppReadyRegex=Listening on
 App.Ports=@IncludeJson[picolimboports.json]
 App.UpdateSources=@IncludeJson[picolimboupdates.json]
+Meta.DisplayImageSource=url:
